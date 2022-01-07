@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Coming soon!" />
- /*   <p className="description"> */
+          <p className="description"> 
  /*       Get started by editing <code>pages/index.js</code>  */
- /*       </p> */
+          </p> 
       </main>
 
       <Footer />
