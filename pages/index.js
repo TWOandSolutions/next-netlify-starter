@@ -39,12 +39,7 @@ export default function Home() {
             <br />
             <br />
             <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
+
             @ 2022 by TWO & Solutions. All rights are reserved
            </p>
         
