@@ -16,10 +16,10 @@ export default function Home() {
            <p className="description"> 
             ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature 
             <br />
-            print("\n")
+            <br />
             ➤ <a href="https://www.youtube.com/channel/UCZlXq7NgCqDCdgA_ro_8liA/">THREE & Solutions </a> YouTube channel: Starcraft and Gaming 
             <br />
-            print("\n")  
+            <br /> 
             | Créateur de Cantent du Canada
       
    
