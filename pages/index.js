@@ -15,7 +15,7 @@ export default function Home() {
          
            <p className="description"> 
             ➤ TWO & Solutions YouTube channel: Science and Nature 
-            "<br>"    
+            <br />    
             ➤ THREE & Solutions YouTube: Starcraft and Gaming | Créateur de Cantent du Canada 
    
            </p>
