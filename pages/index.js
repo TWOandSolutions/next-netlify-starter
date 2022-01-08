@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Coming soon!" />
+        <Header title="Welcome to TWO & Solutions!" />
          
            <p className="description"> 
-           Get started by editing <code>pages/index.js</code>  
+            ➤ TWO & Solutions YouTube channel: Science & Nature ➤ THREE & Solutions YouTube: Starcraft & Gaming | Créateur de Cantent du Canada <code>pages/index.js</code>  
            </p>
         
       </main>
