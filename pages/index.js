@@ -14,10 +14,12 @@ export default function Home() {
         <Header title="Welcome to TWO & Solutions!" />
          
            <p className="description"> 
-            <a href="https://www.youtube.com/c/TWOSolutions/">➤ TWO & Solutions YouTube channel: Science and Nature</a>
-             
+            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature
             <br />    
-            ➤ THREE & Solutions YouTube: Starcraft and Gaming | Créateur de Cantent du Canada 
+            ➤ <a href="https://www.youtube.com/channel/UCZlXq7NgCqDCdgA_ro_8liA/">THREE & Solutions </a> YouTube: Starcraft and Gaming 
+            <br />
+            | Créateur de Cantent du Canada
+      
    
            </p>
         
