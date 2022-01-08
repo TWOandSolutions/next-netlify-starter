@@ -14,9 +14,9 @@ export default function Home() {
         <Header title="Welcome to TWO & Solutions!" />
          
            <p className="description"> 
-            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature
+            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature + \n
             <br />    
-            ➤ <a href="https://www.youtube.com/channel/UCZlXq7NgCqDCdgA_ro_8liA/">THREE & Solutions </a> YouTube: Starcraft and Gaming 
+            ➤ <a href="https://www.youtube.com/channel/UCZlXq7NgCqDCdgA_ro_8liA/">THREE & Solutions </a> YouTube channel: Starcraft and Gaming + \n
             <br />
             | Créateur de Cantent du Canada
       
