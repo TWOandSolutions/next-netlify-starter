@@ -21,8 +21,19 @@ export default function Home() {
             <br />
             <br /> 
             | Créateur de Cantent du Canada
-      
-   
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            @ 2022 by TWO & Solutions. All rights are reserved
            </p>
         
       </main>
