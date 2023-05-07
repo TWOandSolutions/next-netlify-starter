@@ -11,16 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to TWO & Solutions!" />
+        <Header title="Welcome to RemoteKevin multiuniverse!!" />
          
            <p className="description"> 
-            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature 
+            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
             <br />
             <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
-            <br /> 
-            | Créateur de Cantent du Canada
+            <br />             
             <br />
             <br />
             <br />
@@ -40,7 +39,7 @@ export default function Home() {
             <br />
             <br />
 
-            @ 2022 by TWO & Solutions. All rights are reserved
+            @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
       </main>
