@@ -17,7 +17,7 @@ export default function Home() {
             ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature 
             <br />
             <br />
-            ➤ <a href="https://www.youtube.com/channel/UCZlXq7NgCqDCdgA_ro_8liA/">THREE & Solutions </a> YouTube channel: Starcraft and Gaming 
+            ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
             <br /> 
             | Créateur de Cantent du Canada
