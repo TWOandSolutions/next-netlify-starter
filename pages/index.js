@@ -9,7 +9,9 @@ export default function Home() {
         <title>Welcome to TWO & Solutions! - RemoteKevin </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      
+      <br />
+      <br />
       <main>
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
          
