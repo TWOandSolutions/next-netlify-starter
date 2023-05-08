@@ -21,9 +21,14 @@ export default function Home() {
             <br />
             <br />
     
-                  
-
-            <iframe src="https://youtube.com/shorts/6kMNHabafi0?feature=share" title="the developer typing game"></iframe>
+            <iframe 
+            width="853" 
+            height="480" 
+            src="https://youtube.com/shorts/6kMNHabafi0?feature=share" 
+            title="Canada geese and goslings in Silver Lake Waterloo Ontario"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+            ></iframe>
 
  
     
