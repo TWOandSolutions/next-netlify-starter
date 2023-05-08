@@ -10,14 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <br />
-      <br />
       <main>
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
          
-           <p className="description"> 
-            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
-                      
+           <p className="description">
+           ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
+           <br />           
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
             title="Spectacular freshwater ice over subarctic region from Korean Airlines #shorts" 
@@ -35,7 +33,7 @@ export default function Home() {
     
             <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
-                
+            <br />    
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
