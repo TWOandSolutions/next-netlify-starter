@@ -17,7 +17,7 @@ export default function Home() {
             ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
             <br />
             
-            <iframe width="288" height="360" 
+            <iframe width="360" height="288" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
             title="Spectacular freshwater ice over subarctic region from Korean Airlines #shorts" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
@@ -29,7 +29,7 @@ export default function Home() {
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
     
-            <iframe width="288" height="360" 
+            <iframe width="360" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
