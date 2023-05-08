@@ -23,9 +23,13 @@ export default function Home() {
     
             <h3>click to play</h3>
             <section class="youtube-embed">
-            <iframe width="1119" height="675" src="https://www.youtube.com/embed/Jyn7KWFLDXE" title="Last 15 minutes AirCanada landing from clear sky YYZ Toronto Pearson Airport 토론토 국제공항" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </section>
-    
+            <iframe width="439" height="780" 
+            src="https://www.youtube.com/embed/6kMNHabafi0" 
+            title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; 
+            web-share" allowfullscreen>
+            </iframe>
     
             <br />
             <br />
