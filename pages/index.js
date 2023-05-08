@@ -19,7 +19,15 @@ export default function Home() {
             <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
-            <br />             
+            <br />
+    
+                  
+
+            <iframe src="https://youtube.com/shorts/6kMNHabafi0?feature=share" title="the developer typing game"></iframe>
+
+ 
+    
+    
             <br />
             <br />
             <br />
