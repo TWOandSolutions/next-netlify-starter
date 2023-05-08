@@ -21,14 +21,18 @@ export default function Home() {
             <br />
             <br />
     
+            <h3>click to play</h3>
+            <section class="youtube-embed">
             <iframe 
-            width="853" 
-            height="480" 
+            width="100%" height="100%" 
             src="https://youtube.com/shorts/6kMNHabafi0?feature=share" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario"
             frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-            ></iframe>
+            allow="accelerometer; 
+            autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+            </section>
 
  
     
