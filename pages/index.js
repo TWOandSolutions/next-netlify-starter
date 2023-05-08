@@ -26,12 +26,21 @@ export default function Home() {
             </iframe>
     
             <br />
+            <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
     
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; 
+            web-share" allowfullscreen>
+            </iframe>
+    
+            <iframe width="180" height="288" 
+            src="https://www.youtube.com/embed/KprVmEOpp_4" 
+            title="Cool skyline and landscape | New Silver Lakeline and Waterloo Park improvement #shorts" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
