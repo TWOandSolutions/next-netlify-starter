@@ -25,6 +25,13 @@ export default function Home() {
             web-share" allowfullscreen>
             </iframe>
     
+            <iframe width="180" height="288" 
+            src="https://www.youtube.com/embed/1z0Y1c0kdqw" 
+            title="How many Microwave transmission satellite dishes did you find ? #shorts" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; 
+            web-share" allowfullscreen></iframe>
+    
             <br />
             <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
