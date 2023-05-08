@@ -16,8 +16,7 @@ export default function Home() {
            <p className="description"> 
             ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
             <br />
-            <br />
-    
+            
             <iframe width="288" height="360" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
             title="Spectacular freshwater ice over subarctic region from Korean Airlines #shorts" 
@@ -27,9 +26,7 @@ export default function Home() {
             </iframe>
     
             <br />
-            <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
-            <br />
             <br />
     
             <iframe width="288" height="360" 
@@ -40,9 +37,6 @@ export default function Home() {
             web-share" allowfullscreen>
             </iframe>
                 
-            <br />
-            <br />
-            <br />
             <br />
 
             @ 2023 by TWO & Solutions. All rights are reserved
