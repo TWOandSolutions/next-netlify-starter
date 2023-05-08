@@ -18,7 +18,7 @@ export default function Home() {
             <br />
             <br />
     
-            <iframe width="576720" height="720" 
+            <iframe width="576" height="720" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
             title="Spectacular freshwater ice over subarctic region from Korean Airlines #shorts" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
