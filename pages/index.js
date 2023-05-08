@@ -25,7 +25,7 @@ export default function Home() {
             <section class="youtube-embed">
             <iframe 
             width="100%" height="100%" 
-            src="https://youtube.com/shorts/6kMNHabafi0?feature=share" 
+            src="https://youtube.com/shorts/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario"
             frameborder="0"
             allow="accelerometer; 
