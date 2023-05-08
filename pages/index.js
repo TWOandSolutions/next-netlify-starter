@@ -35,7 +35,6 @@ export default function Home() {
             web-share" allowfullscreen></iframe>
     
             <br />
-            <br />
             ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />
     
