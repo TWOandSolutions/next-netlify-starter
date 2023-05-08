@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>TWO&Solution!</title>
+        <title>Welcome to TWO & Solutions! - RemoteKevin </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -58,9 +58,8 @@ export default function Home() {
             @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
-      </main>
-
       <Footer />
+    </main>
     </div>
   )
 }
