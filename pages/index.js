@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Welcome to TWO & Solutions! - RemoteKevin </title>
+        <title>Welcome to RemoteKevin multiuniverse!! </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
@@ -49,7 +49,7 @@ export default function Home() {
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
             </iframe>
-                
+            <br />    
             @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
