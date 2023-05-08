@@ -21,16 +21,14 @@ export default function Home() {
             <br />
             <br />
     
-            <style>
-            <iframe width="439" height="780" 
+            <iframe width="720" height="576" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
             </iframe>
-            </style>
-    
+                
             <br />
             <br />
             <br />
