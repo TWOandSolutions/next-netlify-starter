@@ -6,17 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Welcome to RemoteKevin multiuniverse!! </title>
+        <title>RemoteKevin multiverse!! </title>
         <link rel="icon" href="/favicon.ico" />        
       </Head>
       
       <main>
+        <br /> 
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
     
-           <p>Here is a quote from WWF's website:</p>
-           <blockquote cite="http://www.worldwildlife.org/who/index.html">
-           For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
-           </blockquote> 
+           <p> If you are interested in niches displayed as below, check one of YouTube shorts. Enjoy watching it!</p>
            
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
