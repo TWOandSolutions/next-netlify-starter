@@ -21,7 +21,7 @@ export default function Home() {
            <br />           
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
-            title="Spectacular freshwater ice over subarctic region from Korean Airlines #shorts" 
+            title="Spectacular freshwater ice over..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
@@ -29,7 +29,7 @@ export default function Home() {
     
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/1z0Y1c0kdqw" 
-            title="How many Microwave transmission satellite dishes did you find ? #shorts" 
+            title="How many Microwave transmission satellite..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen></iframe>
@@ -39,7 +39,7 @@ export default function Home() {
             <br />    
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
-            title="Canada geese and goslings in Silver Lake Waterloo Ontario #shorts" 
+            title="Canada geese and goslings in Silver Lake..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
@@ -47,7 +47,7 @@ export default function Home() {
     
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/R-3K46DkkUo" 
-            title="The life of ION Light Rail Transit or LRT Waterloo #shorts" 
+            title="The life of ION Light Rail Transit or LRT..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
