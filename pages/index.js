@@ -8,7 +8,9 @@ export default function Home() {
       <Head>
         <title>Welcome to RemoteKevin multiuniverse!! </title>
         <link rel="icon" href="/favicon.ico" />
+        <header>
         <h2> - Introducing YouTube shorts </h2>
+        </header>
 </header>
       </Head>
       
