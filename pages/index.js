@@ -12,6 +12,21 @@ export default function Home() {
       
       <main>
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
+    
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+        <h1>My First JavaScript</h1>
+
+        <button type="button"
+        onclick="document.getElementById('demo').innerHTML = Date()">
+        Click me to display Date and Time.</button>
+
+        <p id="demo"></p>
+
+        </body>
+        </html> 
         
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
