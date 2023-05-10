@@ -8,6 +8,9 @@ export default function Home() {
       <Head>
         <title>Welcome to RemoteKevin multiuniverse!! </title>
         <link rel="icon" href="/favicon.ico" />
+        
+        <p id="demo1"></p>
+        <p id="demo2"></p>
         <script>
         let text = "Hello World!";
         let result = text.fontsize(6);  
