@@ -14,7 +14,7 @@ export default function Home() {
         <br /> 
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
     
-           <p> If you are interested in niches displayed as below, check one of YouTube shorts. Enjoy watching it!</p>
+           <p> Check one of YouTube shorts with a niche. Currently the accumulated views is over 125K. Enjoy watching it!</p>
            
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
