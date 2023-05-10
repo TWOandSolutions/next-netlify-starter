@@ -52,7 +52,17 @@ export default function Home() {
             encrypted-media; gyroscope; picture-in-picture; 
             web-share" allowfullscreen>
             </iframe>
-            <br />    
+            <br />
+    
+            <iframe width="180" height="288" 
+            src="https://www.youtube.com/embed/R-3K46DkkUo" 
+            title="The life of ION Light Rail Transit or LRT Waterloo #shorts" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; 
+            web-share" allowfullscreen>
+            </iframe>
+            <br />
+    
             @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
