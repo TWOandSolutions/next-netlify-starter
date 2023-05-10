@@ -8,10 +8,8 @@ export default function Home() {
       <Head>
         <title>Welcome to RemoteKevin multiuniverse!! </title>
         <link rel="icon" href="/favicon.ico" />
-        <header>
-        <h2> - Introducing YouTube shorts </h2>
-        </header>
-</header>
+        let text = "Hello World!";
+        let result = text.fontsize(6);
       </Head>
       
       <main>
