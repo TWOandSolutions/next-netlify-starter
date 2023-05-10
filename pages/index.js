@@ -12,17 +12,7 @@ export default function Home() {
       
       <main>
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
-         
-        <p id="demo1"></p>
-        <p id="demo2"></p>
-        <script>
-        let text = "Hello World!";
-        let result = text.fontsize(6);  
-        document.getElementById("demo1").innerHTML = result;
-        result = "<span style='font-size:32px'>" + text + "</span>";
-        document.getElementById("demo2").innerHTML = result;
-        </script>
-    
+        
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
            <br />           
