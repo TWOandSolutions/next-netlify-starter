@@ -8,12 +8,13 @@ export default function Home() {
       <Head>
         <title>Welcome to RemoteKevin multiuniverse!! </title>
         <link rel="icon" href="/favicon.ico" />
+        <script>
         let text = "Hello World!";
-        let result = text.fontsize(6);
-  
+        let result = text.fontsize(6);  
         document.getElementById("demo1").innerHTML = result;
         result = "<span style='font-size:32px'>" + text + "</span>";
         document.getElementById("demo2").innerHTML = result;
+        </script>
       </Head>
       
       <main>
