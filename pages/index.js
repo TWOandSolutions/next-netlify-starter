@@ -10,6 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         let text = "Hello World!";
         let result = text.fontsize(6);
+  
+        document.getElementById("demo1").innerHTML = result;
+        result = "<span style='font-size:32px'>" + text + "</span>";
+        document.getElementById("demo2").innerHTML = result;
       </Head>
       
       <main>
