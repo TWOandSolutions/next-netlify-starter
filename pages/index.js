@@ -7,8 +7,12 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Welcome to RemoteKevin multiuniverse!! </title>
-        <link rel="icon" href="/favicon.ico" />
-        
+        <link rel="icon" href="/favicon.ico" />        
+      </Head>
+      
+      <main>
+        <Header title="Welcome to RemoteKevin multiuniverse!!" />
+         
         <p id="demo1"></p>
         <p id="demo2"></p>
         <script>
@@ -18,11 +22,7 @@ export default function Home() {
         result = "<span style='font-size:32px'>" + text + "</span>";
         document.getElementById("demo2").innerHTML = result;
         </script>
-      </Head>
-      
-      <main>
-        <Header title="Welcome to RemoteKevin multiuniverse!!" />
-         
+    
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
            <br />           
