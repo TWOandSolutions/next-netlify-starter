@@ -54,15 +54,6 @@ export default function Home() {
             </iframe>
             <br />
     
-            '<iframe width="180" height="288" 
-            'src="https://www.youtube.com/embed/KprVmEOpp_4" 
-            'title="Cool skyline and landscape | New Silver Lakeline and Waterloo Park improvement #shorts" 
-            'frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-            'encrypted-media; gyroscope; picture-in-picture; 
-            'web-share" allowfullscreen>
-            '</iframe>
-            '<br />
-    
             @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
