@@ -12,6 +12,11 @@ export default function Home() {
       
       <main>
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
+    
+           <p>Here is a quote from WWF's website:</p>
+           <blockquote cite="http://www.worldwildlife.org/who/index.html">
+           For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+           </blockquote> 
            
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
