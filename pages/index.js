@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Header from '@components/Header'
-import Footer from '@components/Footer'
+"import Footer from '@components/Footer'
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
         <br /> 
         <Header title="Welcome to RemoteKevin multiuniverse!!" />
     
-           <p> Check one of YouTube shorts with a niche. Currently the accumulated views is over 125K. Enjoy watching it!</p>
+           <p> Check one of YouTube shorts with a niche. Currently the accumulated views are over 125K. Enjoy watching it!</p>
            
            <p className="description">
            ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
@@ -56,7 +56,7 @@ export default function Home() {
             @ 2023 by TWO & Solutions. All rights are reserved
            </p>
         
-      <Footer />
+      "<Footer />
     </main>
     </div>
   )
