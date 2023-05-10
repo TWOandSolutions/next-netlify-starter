@@ -54,7 +54,7 @@ export default function Home() {
             </iframe>
             <br />
     
-            @ 2023 by TWO & Solutions. All rights are reserved
+            @ 2023 by TWO & Solutions inc. All rights are reserved
            </p>
         
       <Footer />
