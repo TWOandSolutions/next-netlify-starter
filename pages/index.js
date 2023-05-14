@@ -17,7 +17,7 @@ export default function Home() {
            <p> Check one of YouTube shorts with a niche. Currently the accumulated views are over 125K. Enjoy watching it!</p>
            
            <p className="description">
-           ➤ <a href="https://www.youtube.com/c/TWOSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
+           ➤ <a href="https://www.youtube.com/c/TWOandSolutions/">TWO & Solutions </a> YouTube channel: Science and Nature, News & Climate
            <br />           
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
@@ -37,7 +37,7 @@ export default function Home() {
             <br />
             <br /> 
             <br /> 
-            ➤ <a href="https://www.youtube.com/@THREESolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
+            ➤ <a href="https://www.youtube.com/@THREEandSolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites, Community & etc  
             <br />    
             <iframe width="180" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
