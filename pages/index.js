@@ -17,21 +17,7 @@ export default function Home() {
            <p> TWO & Solutions has offered data solutions in a diverse range of computer and internet applications. </p>
     
            <p className="description">
-           ➤ <a href="https://youtube.com/@TWOandSolutions/">TWO & Solutions </a> YouTube channel: Science, Data, News & Climate 
-           <br />           
-            <iframe width="360" height="288" 
-            src="https://www.youtube.com/embed/6rcNDSjUiG4" 
-            title="Spectacular freshwater ice over..." 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-            encrypted-media; gyroscope; picture-in-picture; 
-            web-share" allowfullscreen>
-            </iframe>
-                  
-            <br />
-            <br /> 
-            <br />
-
-            <br />
+           ➤ The website is under construction now. 
            
            </p>
         
