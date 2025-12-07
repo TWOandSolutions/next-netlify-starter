@@ -32,12 +32,13 @@ export default function Home() {
             <br />
 
             <br />
-    
-            @ 2026 by TWO & Solutions inc. All rights are reserved
+           
            </p>
         
       <Footer />
     </main>
+
+              @ 2026 by TWO & Solutions inc. All rights are reserved
     </div>
   )
 }
