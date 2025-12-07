@@ -13,9 +13,11 @@ export default function Home() {
       <main>
         <br /> 
         <Header title="Welcome to TWO & Solutions!!" />
-    
+
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
            <p> TWO & Solutions has offered data solutions in a diverse range of computer and internet applications. </p>
-           
+</article>
+    
            <p className="description">
            ➤ <a href="https://youtube.com/@TWOandSolutions/">TWO & Solutions </a> YouTube channel: Science, Data, News & Climate 
            <br />           
