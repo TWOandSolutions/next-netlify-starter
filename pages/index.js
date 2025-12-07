@@ -19,7 +19,7 @@ export default function Home() {
            <p className="description">
            ➤ <a href="https://youtube.com/@TWOandSolutions/">TWO & Solutions </a> YouTube channel: Science, Data, News & Climate 
            <br />           
-            <iframe width="180" height="288" 
+            <iframe width="360" height="288" 
             src="https://www.youtube.com/embed/6rcNDSjUiG4" 
             title="Spectacular freshwater ice over..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
@@ -33,7 +33,7 @@ export default function Home() {
               
             ➤ <a href="https://www.youtube.com/@THREEandSolutions">THREE & Solutions </a> YouTube channel: Environment, Travel sites & Nature   
             <br />    
-            <iframe width="180" height="288" 
+            <iframe width="360" height="288" 
             src="https://www.youtube.com/embed/6kMNHabafi0" 
             title="Canada geese and goslings in Silver Lake..." 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
