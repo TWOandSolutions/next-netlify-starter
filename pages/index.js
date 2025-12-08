@@ -23,7 +23,11 @@ export default function Home() {
            <p className="description">
             <p> ➤ TWO & Solutions provides appropriate guidance for beginner, intermediate users and clients to be ready for working independently   </p>
               <p> at the next level of work from real world problems in the future - guiding solutions at your areas and disciplinary. </p>
-           
+            <p> ➤ Curretly, there are subjects like </p>
+            <p> Open Data </p>
+            <p> Open Software </p>
+            <p> Critical thinking and logical reasoning </p>
+            <p> Lesson plan, and course development </p> 
            </p>
         
       <Footer />
