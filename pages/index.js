@@ -16,7 +16,7 @@ export default function Home() {
 
            <p> TWO & Solutions has offered data solutions in a diverse range of computer and internet applications. </p>
 
-           <p> We offers data science solutions and consulting services with over 10-year experience   </p>
+           <p> We offer data science solutions and consulting services with over 10-year experience   </p>
            <p> from industry and academic experience, project, and knowledge in diverse institutions and companies. </p>
            <br />
            <br /> 
