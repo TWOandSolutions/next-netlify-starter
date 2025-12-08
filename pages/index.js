@@ -16,7 +16,7 @@ export default function Home() {
 
            <p> TWO & Solutions has offered data solutions in a diverse range of computer and internet applications. </p>
 
-           <p> We offer data science solutions and consulting services with over 10 years of experience   </p>
+           <p> We offer data science solutions and consulting services with over 20 years of experience   </p>
            <p> from industry and academic experience, projects, and knowledge in diverse institutions and companies. </p>
            <br />
            <br /> 
@@ -24,7 +24,7 @@ export default function Home() {
             <p> ➤ TWO & Solutions provides appropriate guidance for beginner, intermediate users, and clients to be ready for working independently   </p>
               <p> at the next level of work from real-world problems in the future - guiding solutions in your areas and disciplines. </p>
            <br /> 
-            <p> ➤ Curretly, there are subjects like </p>
+            <p> ➤ Currently, we offer services in the following subjects: </p>
             <p> - Open Data </p>
             <p> - Open Software </p>
             <p> - Critical thinking and logical reasoning </p>
