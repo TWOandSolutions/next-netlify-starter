@@ -25,12 +25,7 @@ export default function Home() {
               <p> at the next level of work from real-world problems in the future - guiding solutions in your areas and disciplines. </p>
            <br /> 
             <p> ➤ Currently, we offer services in the following subjects: </p>
-    
-            <ul>
-            <li style="text-align: justify;"><span style="font-size: 20px; font-family: arial, helvetica, sans-serif;">* Open Data</span></li>
-            <li><span style="font-size: 20px; font-family: arial, helvetica, sans-serif;">* Open Data</span></li>
-            </ul>
-    
+
             <p> - Open Data </p>
             <p> - Open Software </p>
             <p> - Critical thinking and logical reasoning </p>
